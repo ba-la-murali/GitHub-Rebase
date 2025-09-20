@@ -239,7 +239,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
                 </div>
 
                 <div class="detail-item">
-                    <span class="label">Plate Number</span>
+                    <span class="label">Plate Registration</span>
                     <span class="value"><?php echo htmlspecialchars($details['plate'] ?? 'N/A'); ?></span>
                 </div>
                 <div class="detail-item">
