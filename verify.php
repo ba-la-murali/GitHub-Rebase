@@ -254,7 +254,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
 
             <div class="certificate-footer">
                 <div class="date-item">
-                    <span class="label">Date of Issue</span>
+                    <span class="label">Date creation</span>
                     <span class="date-value"><?php echo htmlspecialchars($details['issueDate'] ?? 'N/A'); ?></span>
                 </div>
                 <div id="qrcode-container">
