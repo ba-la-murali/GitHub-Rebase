@@ -1,7 +1,7 @@
 <?php
 // --- PHP LOGIC ---
 $details = null;
-$status = 'INVALID DATA';
+$status = 'INVALID DATA Has Been Found';
 $statusClass = 'invalid';
 $statusNote = 'The provided data could not be read or is missing.';
 date_default_timezone_set('Asia/Kolkata');
