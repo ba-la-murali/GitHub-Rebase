@@ -224,7 +224,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
                 <img class="header-logo" src="https://files.fivemerr.com/images/2bab2c45-403c-47fd-bc47-83ac531986f1.png" alt="Seal of Los Santos"> 
                 <div>
                     <h1>VEHICLE REGISTRATION CERTIFICATE</h1>
-                    <p class="subtitle">Government of San Andreas</p>
+                    <p class="subtitle">Government of DJONTOP</p>
                 </div>
             </div>
 
@@ -272,7 +272,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
             
             <div class="developer-footer">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"></path></svg>
-                <span>System Developed By <a href="https://tinyurl.com/djontop" target="_blank" rel="noopener noreferrer">DJONTOP</a></span>
+                <span>System Developed By <a href="https://tinyurl.com/djontop" target="_blank" rel="noopener noreferrer">DJONTOP As Always</a></span>
             </div>
         </div>
     </div>
