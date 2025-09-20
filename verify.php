@@ -290,7 +290,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
         const currentUrl = window.location.href;
         <?php if ($details): ?>
             new QRCode(document.getElementById("qrcode"), { text: currentUrl, width: 90, height: 90 });
-            new QRCode(document.getElementById("qrcode-zoomed"), { text: currentUrl, width: 200, height: 200 });
+            new QRCode(document.getElementById("qrcode-zoomed"), { text: currentUrl, width: 500, height: 200 });
         <?php endif; ?>
 
         const qrContainer = document.getElementById('qrcode-container');
