@@ -259,7 +259,7 @@ if (isset($_GET['data']) && !empty($_GET['data'])) {
                 </div>
                 <div id="qrcode-container">
                     <div id="qrcode"></div>
-                    <span class="qr-label">Scan for Details & Click to Zoom</span>
+                    <span class="qr-label">Zoom for more</span>
                 </div>
                 <div class="date-item">
                     <span class="label">Date of Expiry</span>
